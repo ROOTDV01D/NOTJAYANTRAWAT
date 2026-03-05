@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notjayantrawat&label=Profile%20views&color=0e75b6&style=flat" alt="notjayantrawat" /> </p>
 
-- 🔭 I’m currently working on **PI Scrapper**
+- 🔭 I’m currently working on **CRTO Certification**
 
 - 🌱 I’m currently learning **NextJs,TypeScript,TailwindCss**
 
@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Web Pen Testing , Android Pen testing**
 
-- 📫 How to reach me **jayantrawat02@gmail.com**
+- 📫 How to reach me **rootjay24@gmail.com**
 
 - 👨‍💻 Check out my porftfolio website **https://portfolio-jayant-eight.vercel.app/**
 
-- 📄 Know about my experiences : **Ex Information Security Analyst Cyerops Infosec , Cybersecurity Intern Nangia Andersen , Senior Executive Cybersecurity Nangia Andersen**
+- 📄 Know about my experiences : **I have worked on projects related to Web, Mobile and API Pentesting**
 
 - ⚡ Fun fact **I am a Certified Ethical Hacker**
 
